@@ -1,6 +1,4 @@
-# vestibular-network_repo3-spatial-cognition-mapping
-
-Spatial Cognition Mapping in Vestibular Brain Networks
+# Spatial Cognition Mapping in Vestibular Brain Networks
 
 A neuroimaging analysis project examining how vestibular-related brain networks support spatial cognition, navigation, and multisensory orientation.
 
